@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>java</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/day01/HelloWorld02.java</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/Desktop/代码和PPT/02.第二次code-17-22/HelloWorld02.java</location>
+		</link>
+		<link>
+			<name>src/day2/HelloWorld07.java</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/Desktop/代码和PPT/02.第三次code-23-32/HelloWorld07.java</location>
+		</link>
+		<link>
+			<name>src/day2/HelloWorld08.java</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/Desktop/代码和PPT/02.第三次code-23-32/HelloWorld08.java</location>
+		</link>
+		<link>
+			<name>src/day2/HelloWorld09.java</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/Desktop/代码和PPT/02.第三次code-23-32/HelloWorld09.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
